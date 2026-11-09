@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">AgriBridge</string>
+    <string name="motor_1">Motor 1</string>
+    <string name="motor_2">Motor 2</string>
+    <string name="line_voltage">Line Voltage</string>
+    <string name="current">Current</string>
+    <string name="instant_power">Instant Power</string>
+    <string name="ambient_temp">Ambient Temperature</string>
+    <string name="humidity">Relative Humidity</string>
+    <string name="power_stats">Power Statistics</string>
+    <string name="used_today">Used Today</string>
+    <string name="week">Week</string>
+    <string name="month">Month</string>
+    <string name="node_name">sensor_node_1</string>
+</resources>

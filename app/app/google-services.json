@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "87914715815",
+    "firebase_url": "https://agribridge-iot-default-rtdb.firebaseio.com",
+    "project_id": "agribridge-iot",
+    "storage_bucket": "agribridge-iot.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:87914715815:android:bfcb49ab2b20399f6d1982",
+        "android_client_info": {
+          "package_name": "com.agribridge.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBMe0BjWk36VQypQM6thOG-CvnvP3rG5ZQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

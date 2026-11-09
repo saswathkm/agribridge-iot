@@ -1,0 +1,25 @@
+{
+  "sensor_node_1": {
+    "motor1": {
+      "status": false,
+      "voltage": "230.5",
+      "current": "0.0",
+      "power": "0.0"
+    },
+    "motor2": {
+      "status": true,
+      "voltage": "228.0",
+      "current": "3.5",
+      "power": "798.0"
+    },
+    "environment": {
+      "temperature": "29.2",
+      "humidity": "68.0"
+    },
+    "stats": {
+      "today": "5.2 kWh",
+      "week": "34.1 kWh",
+      "month": "142.0 kWh"
+    }
+  }
+}

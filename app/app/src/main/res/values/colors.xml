@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="primary_green">#16A34A</color>
+    <color name="primary_dark">#052E16</color>
+    <color name="background_slate">#0B1120</color>
+    <color name="surface_slate">#1E293B</color>
+    <color name="voltage_amber">#FCD34D</color>
+    <color name="current_cyan">#67E8F9</color>
+    <color name="power_emerald">#6EE7B7</color>
+    <color name="temp_orange">#FDBA74</color>
+    <color name="hum_blue">#7DD3FC</color>
+</resources>

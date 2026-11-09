@@ -1,0 +1,55 @@
+{
+  "rules": {
+    "sensor_node_1": {
+      ".read": true,
+      ".write": true,
+      "motor1": {
+        "status": {
+          ".validate": "newData.isBoolean()"
+        },
+        "voltage": {
+          ".validate": "newData.isString()"
+        },
+        "current": {
+          ".validate": "newData.isString()"
+        },
+        "power": {
+          ".validate": "newData.isString()"
+        }
+      },
+      "motor2": {
+        "status": {
+          ".validate": "newData.isBoolean()"
+        },
+        "voltage": {
+          ".validate": "newData.isString()"
+        },
+        "current": {
+          ".validate": "newData.isString()"
+        },
+        "power": {
+          ".validate": "newData.isString()"
+        }
+      },
+      "environment": {
+        "temperature": {
+          ".validate": "newData.isString()"
+        },
+        "humidity": {
+          ".validate": "newData.isString()"
+        }
+      },
+      "stats": {
+        "today": {
+          ".validate": "newData.isString()"
+        },
+        "week": {
+          ".validate": "newData.isString()"
+        },
+        "month": {
+          ".validate": "newData.isString()"
+        }
+      }
+    }
+  }
+}
